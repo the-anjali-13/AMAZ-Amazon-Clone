@@ -4,7 +4,7 @@
 Amaz is a clone of the popular e-commerce website Amazon.com. It's a project created to enhance my skills in HTML and CSS. The initial version contains the user interface (UI) of Amazon.com and is designed as a starting point for future enhancements.
 
 <h3>Project Details</h3>
-<b>Technologies Used:</b> HTML, CSS
+<b>Technologies Used:</b> HTML, CSS <br>
 <b>Editor:</b> VS Code
 
 <h3>Future Plans</h3>
